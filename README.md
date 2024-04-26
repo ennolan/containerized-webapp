@@ -1,5 +1,11 @@
 # containerized-webapp
-Simple webapp in a Docker container on an EC2 instance.
+Deploy a secure webapp in a container hosted on an EC2 instance.
+#
+Resources:
+Docker
+EC2
+Load Balancer
+SSL Certificate
 
 #
 #
