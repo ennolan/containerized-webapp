@@ -1,5 +1,5 @@
-# containerized-webapp
-Deploy a secure webapp to a container hosted on an EC2 instance.
+# Containerized webapp
+Deploying a secure webapp to a Docker container hosted on an EC2 instance.
 #
 Resources:
 #
